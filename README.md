@@ -88,21 +88,17 @@ user-3 → Can start/stop EC2 instances
 
 ## **Screenshots**
 
-Screenshot Name	Description
+Custom password policy created with strict requirements.
+<img width="1608" height="488" alt="Screenshot 2025-10-18 101855" src="https://github.com/user-attachments/assets/715a20f2-4763-4035-a277-6dade349f2d6" />
 
-PasswordPolicy.png	Custom password policy created with strict requirements.
+Users successfully assigned to their respective groups.
+<img width="1342" height="333" alt="Screenshot 2025-10-18 104443" src="https://github.com/user-attachments/assets/41e5eef4-73fe-4f8c-9a2b-751ecfe578b0" />
 
-IAMUsers.png	Displays pre-created users (user-1, user-2, user-3).
+IAM console sign-in portal used to test user access.
+<img width="1470" height="297" alt="Screenshot 2025-10-18 104708" src="https://github.com/user-attachments/assets/0758ac48-17be-4644-9a8a-fce1ca43dd18" />
 
-IAMGroups.png	Shows IAM groups and associated managed/inline policies.
-
-GroupPolicies.png	Managed and inline policies defining access boundaries.
-
-UserGroupMapping.png	Users successfully assigned to their respective groups.
-
-IAMSigninURL.png	IAM console sign-in portal used to test user access.
-
-AccessTest.png	Permissions validation: users restricted by role-based policies.
+Permissions validation: users restricted by role-based policies.
+<img width="1461" height="248" alt="Screenshot 2025-10-18 104736" src="https://github.com/user-attachments/assets/e905c39e-ff9a-4b62-a3db-b73a816444f5" />
 
 ## **Tools Used**
 
